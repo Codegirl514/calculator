@@ -1,2 +1,2 @@
-# calculator
+# JAVA
 basic calculator program
